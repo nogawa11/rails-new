@@ -1,24 +1,25 @@
-# README
+# Stupid Coaching
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple stupid coaching app built to practice using Rails.
+   
+## Getting Started
+### Setup
 
-Things you may want to cover:
+Install gems
+```
+bundle install
+```
+Install JS packages
+```
+yarn install
+```
 
-* Ruby version
+### Run a server
+```
+rails s
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Built With
+- [Rails 6](https://guides.rubyonrails.org/) - Backend / Front-end
+- [sqlite3](https://www.sqlite.org/) - Database
+- [Bootstrap](https://getbootstrap.com/) — Styling
